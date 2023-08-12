@@ -1,0 +1,22 @@
+{
+  "decimals": 0,
+  "isBooleanAmount": true,
+  "name": "Squirtle_Pokemon_Card",
+  "description": "",
+  "tags": [
+    "awesome",
+    "nft"
+  ],
+  "minter": "tz1MhasYT8QD4VpqLBi9q1WK9tNBqCkxDpcR",
+  "artifactUri": "ipfs://QmfJxrztzTChkkixWiiEwPjq2GJePgcWcaiZ6ojPG9x3SS",
+  "displayUri": "ipfs://QmfJxrztzTChkkixWiiEwPjq2GJePgcWcaiZ6ojPG9x3SS",
+  "thumbnailUri": "ipfs://QmfJxrztzTChkkixWiiEwPjq2GJePgcWcaiZ6ojPG9x3SS",
+  "creators": [],
+  "rights": "",
+  "attributes": [
+    {
+      "name": "sample attribute",
+      "value": "sample value"
+    }
+  ]
+}
